@@ -5,5 +5,6 @@ int main(){
     for(int i=1;i<=a;i++){
         printf("*");
     }
+    return 0;
 
 }
