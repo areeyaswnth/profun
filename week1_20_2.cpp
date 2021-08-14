@@ -14,4 +14,5 @@ int loop(int i){
 int main(){
     scanf("%d",&a);
     loop(n);
+    return 0;
 }
